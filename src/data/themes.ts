@@ -45,7 +45,7 @@ const themes: Theme[] = [
     },
     {
         name: ['dark_magic_girl'],
-        background: '#091f2c',
+        background: '#021527',
         title: '#a288d9',
         subtitle: '#bfbfbf',
     },
